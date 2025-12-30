@@ -1,0 +1,10 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+*.pem
+*.key
+ *.terraform.lock.hcl
+ # Ignore SSH keys
+assignment-key
+assignment-key.pub

@@ -169,4 +169,4 @@ inside `locals.tf`.
 ---
 
 ## Author
-Assignment completed as part of Cloud Computing / DevOps Lab.
+Assignment completed as part of Cloud Computing.
